@@ -1,0 +1,7 @@
+${PODS_ROOT}/Target Support Files/Pods-Rss/Pods-Rss-frameworks.sh
+${BUILT_PRODUCTS_DIR}/Alamofire/Alamofire.framework
+${BUILT_PRODUCTS_DIR}/CHTCollectionViewWaterfallLayout/CHTCollectionViewWaterfallLayout.framework
+${BUILT_PRODUCTS_DIR}/JXPhotoBrowser/JXPhotoBrowser.framework
+${BUILT_PRODUCTS_DIR}/Kingfisher/Kingfisher.framework
+${BUILT_PRODUCTS_DIR}/SnapKit/SnapKit.framework
+${BUILT_PRODUCTS_DIR}/SwiftyXMLParser/SwiftyXMLParser.framework

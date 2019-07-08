@@ -1,0 +1,6 @@
+framework module Pods_Rss {
+  umbrella header "Pods-Rss-umbrella.h"
+
+  export *
+  module * { export * }
+}
